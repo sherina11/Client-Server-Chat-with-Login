@@ -16,3 +16,6 @@ gcc client.c -o client
 
 ./server
 ./client
+
+## Author
+Raja Sherina T
